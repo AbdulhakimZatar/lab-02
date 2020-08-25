@@ -7,6 +7,8 @@
 
 3- Osama Al-Thabteh.
 
+4- Hamza Sami.
+
 ### Time Estimate
 
 Number and name of feature: Setup files & read tasks.
