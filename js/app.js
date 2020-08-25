@@ -1,6 +1,6 @@
 "use strict";
 
-$.ajax("../data/page-1.json").then((data) => {
+$.ajax("./data/page-1.json").then((data) => {
 
     data.forEach((val, idx) => {
         // console.log(val.image_url);
